@@ -19,3 +19,13 @@ I live in Berlin with my wife Kim
 and our son Giorgo
 
 ![giorgos photo](giorgos.jpg).
+
+I was born and grew up in this [small place in Greece](https://goo.gl/maps/xev7eYvv7T32).
+Some things I enjoy in life are
+* Playing with Giorgo
+* Books
+* Coffee
+* LISP
+* Japanese food
+
+## 
