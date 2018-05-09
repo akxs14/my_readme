@@ -28,4 +28,12 @@ Some things I enjoy in life are
 * LISP
 * Japanese food
 
-## 
+## Why I am here, a.k.a my job
+
+* Help teams to be autonomous and amazing.
+* Provide information and context to colleagues.
+* Attract, grow and retain great people.
+* Foster a culture of passion, craftsmanship, collaboration and pragmatism, resulting to products their builders are proud of.
+
+
+## How I can help you
