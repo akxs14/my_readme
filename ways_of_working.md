@@ -1,3 +1,5 @@
+# Ways of working in Engineering
+
 During my career I observed a few things that work in technology organizations and many things that they don't. After assuming managerial duties, 
 I thought a lot on how these lessons can be transmitted to the engineers. 
 
